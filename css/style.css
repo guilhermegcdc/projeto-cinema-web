@@ -1,0 +1,5 @@
+.card-img-poster {
+    width: 100%;
+    aspect-ratio: 2 / 3; /* Proporção de poster (largura / altura) */
+    object-fit: cover;   /* Garante que a imagem cubra a área sem distorcer */
+}
